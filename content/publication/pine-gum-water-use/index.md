@@ -1,72 +1,44 @@
 ---
-title: "An example journal article"
+title: "Woody bioenergy crop selection can have large effects on water yield: A southeastern United States case study"
 authors:
 - seth-younger
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Peter Caldwell
+date: 2018-07-01T00:00:00
+doi: "10.1016/j.biombioe.2018.07.021"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+#authors: ["P.V. Caldwell", "C.R. Jackson", "C.F. Miniat", "S.E. Younger", "J.A. Vining", "J.J. McDonnell", #"D.P. Aubrey"]
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
 publication_types: ["2"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+# Publication name and optional abbreviated version.
+publication: "In *Biomass and Bioenergy*"
+publication_short: "In *Biomass and Bioenergy*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# Abstract and optional shortened version.
+abstract: "Short-rotation woody crops in the southeastern United States will make a significant contribution to the growing renewable energy supply over the 21st century; however, there are few studies that investigate how species selection may affect water yield. Here we assessed the impact of species selection on annual and seasonal water budgets in unvegetated plots and late-rotation 14-15-year-old intensively managed loblolly pine (Pinus taeda L.) and sweetgum (Liquidambar styraciflua L.) stands in South Carolina USA. We found that while annual aboveground net primary productivity and bioenergy produced was similar between species, sweetgum transpiration was 53% higher than loblolly pine annually and 92% greater during the growing season. Canopy interception was 10.5% of annual precipitation and was not significantly different between the two species. Soil evaporation was less than 1.3% of annual precipitation and did not differ between species, but was 26% of precipitation in unvegetated plots. Annual water yield was 69% lower for sweetgum than loblolly pine, with water yield to precipitation ratios of 0.13 and 0.39 for sweetgum and loblolly pine, respectively. If planted at a large scale, the high transpiration and low water yield in sweetgum could result in declines in downstream water availability relative to loblolly pine by the end of the growing season when storage in groundwater, streams, and water supply reservoirs are typically at their lowest. Our results suggest that species selection is of critical importance when establishing forest plantations for woody bioenergy production due to potential impacts on downstream water yield."
 
 tags:
 - Source Themes
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# Links (optional).
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0961953418301910?via%3Dihub"
+
+# Does this page contain LaTeX math? (true/false)
+math: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Cumulative Es for SG (solid red line), LP (dashed blue line), and BA (dotted black line) based on lysimeter measurements on approximately weekly intervals. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.'
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Smart"
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+One of the more intersting findings from this study was that ~300 mm of water evaporated from bare soil annualy. This finding lead to further collection of data on evaporation from bare soil, that work is ongoing.
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+![](https://seyounger.github.io/pictures/water-use-soil-evap.png)
