@@ -1,7 +1,6 @@
 ---
 title: "Woody bioenergy crop selection can have large effects on water yield: A southeastern United States case study"
 authors:
-- Peter Caldwell
 - seth-younger
 date: 2018-07-01T00:00:00
 doi: "10.1016/j.biombioe.2018.07.021"
