@@ -40,7 +40,7 @@ height = "200px"
   #align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "control_soil_core.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/control_soil_core.png"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,7 +49,7 @@ height = "200px"
   #align = "right"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = "older_euc.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/older_euc.png"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -58,6 +58,6 @@ height = "200px"
   #align = "right"
 
   #overlay_color = "#333"  # An HTML color value.
-  overlay_img = "oldest_euc.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "slider/oldest_euc.png"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
