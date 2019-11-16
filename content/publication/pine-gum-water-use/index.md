@@ -1,13 +1,13 @@
 ---
 title: "Woody bioenergy crop selection can have large effects on water yield: A southeastern United States case study"
 authors:
-- seth-younger
 - Peter Caldwell
+- seth-younger
 date: 2018-07-01T00:00:00
 doi: "10.1016/j.biombioe.2018.07.021"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-#authors: ["P.V. Caldwell", "C.R. Jackson", "C.F. Miniat", "S.E. Younger", "J.A. Vining", "J.J. McDonnell", #"D.P. Aubrey"]
+authors: ["P.V. Caldwell", "C.R. Jackson", "C.F. Miniat", "S.E. Younger", "J.A. Vining", "J.J. McDonnell", "D.P. Aubrey"]
 
 publication_types: ["2"]
 
@@ -34,7 +34,7 @@ math: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Cumulative Es for SG (solid red line), LP (dashed blue line), and BA (dotted black line) based on lysimeter measurements on approximately weekly intervals. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.'
+  caption: 'Cumulative Es for SG (solid red line), LP (dashed blue line), and BA (dotted black line) based on lysimeter measurements on approximately weekly intervals'
   focal_point: ""
   preview_only: false
   # Focal point (optional)
