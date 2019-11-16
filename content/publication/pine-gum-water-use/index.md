@@ -42,5 +42,3 @@ image:
 ---
 
 One of the more intersting findings from this study was that ~300 mm of water evaporated from bare soil annualy. This finding lead to further collection of data on evaporation from bare soil, that work is ongoing.
-
-![](https://seyounger.github.io/pictures/water-use-soil-evap.png)
