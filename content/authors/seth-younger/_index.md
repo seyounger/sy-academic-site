@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://github.com/seyounger
 - icon: orcid
-  incon_pack: ai
+  icon_pack: ai
   link: https://orcid.org/0000-0002-2183-0981
 - icon: linkedin
   icon_pack: fab
