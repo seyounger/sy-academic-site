@@ -75,4 +75,10 @@ subtitle = ""
  css_class = ""
 +++
 
-A test to see if this shows up...
+My research focus is on quantifying water use and water source partitioning of forest stands from watershed to plot scales. I use a combination of methodos including isotopic tracers and water flux measurements from USGS stream gauges, sap flow and soil moisture sensor networks.
+
+**Affiliated Labs**:
+
+* [UGA Hydrology Lab](https://www.warnell.uga.edu/people/faculty/dr-c-rhett-jackson)
+* [Aubrey Lab](http://aubreylab.weebly.com)
+* [Todd Rassmusen's website](http://www.hydrology.uga.edu/rasmussen/)
