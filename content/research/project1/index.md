@@ -12,11 +12,3 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
-
-This should make some research related content
-
-A:
-
-- A
-_ B
-_ C

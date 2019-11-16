@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.20)  23 OCT 2019 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.15)  15 NOV 2019 22:14
 entering extended mode
 **./seth_younger-cv.tex
 (seth_younger-cv.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2019-10-01> patch level 1
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+Document Class: article 2019/08/27 v1.4j Standard LaTeX document class
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: size10.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -93,7 +93,7 @@ Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
-File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -163,6 +163,8 @@ File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+25E6 (decimal 9702)
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
    defining Unicode char U+FEFF (decimal 65279)
 ))
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -270,7 +272,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 "
 Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
  ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen111
 \ar@mcellbox=\box29
 \extrarowheight=\dimen112
@@ -301,7 +303,7 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 )
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
 sty"
-Package: hyperref 2019/09/12 v6.88i Hypertext links for LaTeX
+Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
 hyperref.sty"
@@ -353,7 +355,7 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
 f"
-File: pd1enc.def 2019/09/12 v6.88i Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -363,32 +365,32 @@ Now handling font encoding PD1 ...
 cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4550.
-Package hyperref Info: Link nesting OFF on input line 4555.
-Package hyperref Info: Hyper index ON on input line 4558.
-Package hyperref Info: Plain pages OFF on input line 4565.
-Package hyperref Info: Backreferencing OFF on input line 4570.
+Package hyperref Info: Hyper figures OFF on input line 4540.
+Package hyperref Info: Link nesting OFF on input line 4545.
+Package hyperref Info: Hyper index ON on input line 4548.
+Package hyperref Info: Plain pages OFF on input line 4555.
+Package hyperref Info: Backreferencing OFF on input line 4560.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4803.
+Package hyperref Info: Bookmarks ON on input line 4793.
 \c@Hy@tempcnt=\count96
  ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5156.
+LaTeX Info: Redefining \url on input line 5152.
 \XeTeXLinkMargin=\dimen119
 \Fld@menulength=\count97
 \Field@Width=\dimen120
 \Fld@charsize=\dimen121
-Package hyperref Info: Hyper figures OFF on input line 6411.
-Package hyperref Info: Link nesting OFF on input line 6416.
-Package hyperref Info: Hyper index ON on input line 6419.
-Package hyperref Info: backreferencing OFF on input line 6426.
-Package hyperref Info: Link coloring OFF on input line 6431.
-Package hyperref Info: Link coloring with OCG OFF on input line 6436.
-Package hyperref Info: PDF/A mode OFF on input line 6441.
-LaTeX Info: Redefining \ref on input line 6481.
-LaTeX Info: Redefining \pageref on input line 6485.
+Package hyperref Info: Hyper figures OFF on input line 6423.
+Package hyperref Info: Link nesting OFF on input line 6428.
+Package hyperref Info: Hyper index ON on input line 6431.
+Package hyperref Info: backreferencing OFF on input line 6438.
+Package hyperref Info: Link coloring OFF on input line 6443.
+Package hyperref Info: Link coloring with OCG OFF on input line 6448.
+Package hyperref Info: PDF/A mode OFF on input line 6453.
+LaTeX Info: Redefining \ref on input line 6493.
+LaTeX Info: Redefining \pageref on input line 6497.
 \Hy@abspage=\count98
 \c@Item=\count99
 \c@Hfootnote=\count100
@@ -397,7 +399,7 @@ Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
 ef"
-File: hpdftex.def 2019/09/12 v6.88i Hyperref driver for pdfTeX
+File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
 \Fld@listcount=\count101
 \c@bookmark@seq@number=\count102
 
@@ -426,7 +428,8 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+1.
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -434,7 +437,8 @@ File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 51.
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 51
+.
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\t1qpl.fd"
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
@@ -507,7 +511,7 @@ Package hyperref Info: Link coloring ON on input line 51.
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
-Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
 estring.sty"
@@ -522,7 +526,8 @@ LaTeX Info: Redefining \nameref on input line 51.
 \@outlinefile=\write3
 \openout3 = `seth_younger-cv.out'.
 
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 58.
+LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 5
+8.
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tex-gyre\ts1qpl.fd
 "
@@ -535,8 +540,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/seyou/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 193.
-
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+93.
 
 ("C:\Users\seyou\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -557,13 +562,13 @@ Package rerunfilecheck Info: File `seth_younger-cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 368.
  ) 
 Here is how much of TeX's memory you used:
- 6267 strings out of 492891
- 94727 string characters out of 3123562
- 187173 words of memory out of 3000000
- 10104 multiletter control sequences out of 15000+200000
+ 6324 strings out of 492449
+ 95288 string characters out of 3119902
+ 188972 words of memory out of 3000000
+ 10603 multiletter control sequences out of 15000+200000
  25288 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,32p,448b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,6n,34p,448b,378s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/seyou/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm
 -super-t1.enc}{C:/Users/seyou/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips
 /tex-gyre/q-ec.enc}{C:/Users/seyou/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/
@@ -572,7 +577,7 @@ s/type1/public/tex-gyre/qplb.pfb><C:/Users/seyou/AppData/Local/Programs/MiKTeX
 2.9/fonts/type1/public/tex-gyre/qplr.pfb><C:/Users/seyou/AppData/Local/Programs
 /MiKTeX 2.9/fonts/type1/public/tex-gyre/qplri.pfb><C:/Users/seyou/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on seth_younger-cv.pdf (4 pages, 209966 bytes).
+Output written on seth_younger-cv.pdf (4 pages, 209947 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
