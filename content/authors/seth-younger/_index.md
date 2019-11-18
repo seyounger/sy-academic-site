@@ -23,6 +23,7 @@ bio: My research interests include hydrology and GIS.
 interests:
 - Hydrology
 - Evapotranspiration
+- Data driven decision making
 - GIS Applications
 
 education:
