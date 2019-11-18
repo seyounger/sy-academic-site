@@ -2,11 +2,11 @@
 title: "Wetness Index based on Landscape position and Topography (WILT): Modifying the TWI using parameters related to landscape positions"
 authors:
 - seth-younger
-date: "2015-09-01T00:00:00Z"
+date: "2019-11-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-11-16T00:00:00Z"
+#publishDate: "2019-11-16T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors: [Menberu B. Meles, Seth E. Younger, C. Rhett Jackson, Enhao Du, Damion Drover]
