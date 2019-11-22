@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "fa-python"
+  icon_pack = "fab"
+  name = "Python"
   description = "10%"
 
 +++
