@@ -30,6 +30,6 @@ subtitle = ""
   icon = "fa-python"
   icon_pack = "fab"
   name = "Python"
-  description = "10%"
+  description = "11%"
 
 +++
