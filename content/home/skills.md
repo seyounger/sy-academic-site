@@ -18,7 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "65%"
+  description = "50%"
   
 [[feature]]
   icon = "chart-line"
@@ -31,5 +31,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "10%"
+  
+[[feature]]
+  icon = "file-word"
+  icon_pack = "fa"
+  name = "Writing"
+  description = "15%"
 
 +++
