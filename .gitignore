@@ -1,3 +1,6 @@
 public/
 .idea/
 themes/academic
+
+# Local Netlify folder
+.netlify
