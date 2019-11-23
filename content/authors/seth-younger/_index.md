@@ -75,4 +75,4 @@ email: ""
 #- Researchers
 ---
 
-I'm a Phd candidate studying how annual and seasonal transpiration varies among tree species and forest types in the southeastern US.  My research encompasses very large scales, using long-term United States Geological Survey stream data to examine transpiration differences among large forested watersheds, and small scales, examining plot scale water balance to assess differences in water use among tree species commonly grown in commercial forests in the southeast.
+I'm a Phd candidate studying how annual and seasonal transpiration varies among tree species and forest types in the southeastern US.  My research encompasses very large scales, using long-term United States Geological Survey stream flow data to examine transpiration differences among large forested watersheds, and small scales, examining plot scale water balance to assess differences in water use among tree species commonly grown in commercial forests in the southeast.
