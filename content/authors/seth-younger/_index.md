@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD student in Forestry and Natural Resources
     institution: University of Georgia
-    year: expected spring 2020
+    year: [spring 2020]
   - course: M.S. Geography
     institution: University of Georgia
     year: 2013
