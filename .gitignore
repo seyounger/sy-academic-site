@@ -1,6 +1,7 @@
 public/
 .idea/
 themes/academic
+.Rhistory
 
 # Local Netlify folder
 .netlify

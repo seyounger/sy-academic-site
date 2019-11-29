@@ -3,7 +3,7 @@ title: "Wetness Index based on Landscape position and Topography (WILT): Modifyi
 authors:
 - seth-younger
 date: "2019-11-18T00:00:00Z"
-doi: ""
+doi: "10.1016/j.jenvman.2019.109863"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2019-11-16T00:00:00Z"
@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Environmental Management"
-publication_short: ""
+publication_short: "JEMA"
 
 abstract: Water and land resource management planning benefits greatly from accurate prediction and understanding of the spatial distribution of wetness. The topographic wetness index (TWI) was conceived to predict relative surface wetness, and thus hydrologic responsiveness, across a watershed based on the assumption that shallow slope-parallel flow is a major driver of the movement and distribution of soil water. The index has been extensively used in modeling of landscape characteristics responsive to wetness, and some studies have shown the TWI performs well in landscapes where interflow is a dominant process. However, groundwater flow dominates the hydrology of low-slope landscapes with high subsurface conductivities, and the TWI assumptions are not likely to perform well in such environments. For groundwater dominated systems, we propose a hybrid wetness index (Wetness Index based on Landscape position and Topography, WILT) that inversely weights the upslope contributing area by the distance to the nearest surface water feature and the depth to groundwater. When explicit depth to groundwater data are not available, height above and separation from surface water features can act as surrogates for proximity to groundwater. The resulting WILT map provides a more realistic spatial distribution of relative wetness across a low-slope Coastal Plain landscape as demonstrated by improved prediction of hydric soils, depth to groundwater, nitrogen and carbon concentrations in the A horizon of the soil profile, and sensitivity to DEM scale.
 

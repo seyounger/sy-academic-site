@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-My research focus is on quantifying water use and water source partitioning of forest stands from watershed to plot scales. I use a combination of methodos including isotopic tracers and water flux measurements from USGS stream gauges, sap flow and soil moisture sensor networks.
+My research focus is on quantifying water use and water source partitioning of forest stands from watershed to plot scales. I use a combination of methodos including isotopic tracers, water flux estimates from USGS stream gauges, and field data from sap flow, soil moisture and water level logger sensor networks.
 
 **Affiliated Labs**:
 

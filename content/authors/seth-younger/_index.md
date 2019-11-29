@@ -15,7 +15,7 @@ role: Graduate Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: University of Georgia
-  url: ""
+  url: "https://www.uga.edu/"
 - name: Warnell School of Forestry and Natural Resources
   url: "https://www.warnell.uga.edu/"
 
@@ -24,6 +24,7 @@ bio: My research interests include hydrology and GIS.
 
 interests:
 - Hydrology
+- Geomorphology
 - Evapotranspiration
 - Data driven decision making
 - GIS Applications
