@@ -2,7 +2,6 @@
 
 # To do:
 
-+ address bar icon - hp photo
 + blog posts: r home, updating R, timeseries
 + useful links / resources page
 
