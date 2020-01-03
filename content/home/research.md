@@ -80,6 +80,5 @@ My research focus is on quantifying water use and water source partitioning of f
 **Affiliated Labs**:
 
 * [UGA Hydrology Lab](https://www.warnell.uga.edu/people/faculty/dr-c-rhett-jackson)
-* <a href="https://www.warnell.uga.edu/people/faculty/dr-c-rhett-jackson/" target="_blank">UGA Hydrology Lab</a>
 * [Aubrey Lab](http://aubreylab.weebly.com)
 * [Todd Rassmusen's website](http://www.hydrology.uga.edu/rasmussen/)
