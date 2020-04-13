@@ -9,7 +9,7 @@ doi: "10.1002/hyp.13778"
 #publishDate: "2020-04-12T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: [Menberu Meles Bitew, C. Rhett Jackson, David C. Goodrich, Seth E. Younger, Natalie A. Griffiths, Kellie B. Vaché, Benjamin Rau]
+authors: [Menberu Meles Bitew, C. Rhett Jackson, David C. Goodrich, Seth E. Younger, Natalie A. Griffiths, "Kellie B. Vaché", Benjamin Rau]
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
