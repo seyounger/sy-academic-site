@@ -119,7 +119,7 @@ contact_links = [
   ]
 
 ############################
-## Social
+## SocialA
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
@@ -146,9 +146,6 @@ list_delimiter = ", "
 ## Advanced
 ############################
 
-# Get user avatars from Gravatar.com? (true/false)
-gravatar = false
-
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = false
 
@@ -168,6 +165,25 @@ link_authors = true
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = []
+
+# Avatars.
+# An avatar is an image that appears next to a user's name.
+# An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
+[avatar]
+  # Get user avatars from Gravatar.com? (true/false)
+  gravatar = false
+
+  # Choose a shape for avatar images. Options: circle, square.
+  shape = "circle"
+  
+# Available address formats.
+[address_formats]
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
+
 
 # Configuration of publication pages.
 [publications]
