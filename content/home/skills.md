@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "Expertise"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -35,7 +35,25 @@ subtitle = ""
 [[feature]]
   icon = "file-word"
   icon_pack = "fa"
-  name = "Writing"
+  name = "Reporting"
+  #description = "25%"
+  
+[[feature]]
+  icon = "file-word"
+  icon_pack = "fa"
+  name = "Spatial Analysis"
+  #description = "25%"
+  
+[[feature]]
+  icon = "file-word"
+  icon_pack = "fa"
+  name = "Hydrologic modeling"
   #description = "25%"
 
+
 +++
+
+My skills include analysis of spatial and temporal data including the ability to handle very large datasets and creatively report results using effective data visualizations and maps.
+
++ Test
++ Test 2
