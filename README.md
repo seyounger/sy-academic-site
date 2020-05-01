@@ -2,7 +2,7 @@
 
 # To do:
 
-+ blog posts: r home, updating R, timeseries
++ blog posts: r home, updating R, why tidyverse is helpful, road ditch routing for the layperson
 + useful links / resources page
 
 # [This website was built using the Academic theme](https://sourcethemes.com/academic/)
