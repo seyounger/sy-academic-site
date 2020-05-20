@@ -40,7 +40,7 @@ enough shade to prevent rhododendron removal from increasing summer temperatures
 deleterious to native cold-water fauna and that local temperature effects were not persistent."
 
 # Summary. An optional shortened abstract.
-summary: "Removal of Rhododendron increased summer stream temperatures at certain locations but temperatures decreased again downstream of the treatment reaches."
+summary: "We investigated how understory riparian rhododendron thickets moderate summer stream temperatures using a paired watershed approach. Removal of this low light microclimate produced significant, but highly variable increases in summer stream temperatures."
 
 tags:
 featured: true
