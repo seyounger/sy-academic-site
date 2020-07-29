@@ -23,24 +23,24 @@
 % that need indentation to the level of all text in the document
 \newenvironment{indentsection}[1]%
 {\begin{list}{}%
-	{\setlength{\leftmargin}{#1}}%
-	\item[]%
-}
-{\end{list}}
+		{\setlength{\leftmargin}{#1}}%
+		\item[]%
+	}
+	{\end{list}}
 
 % opposite of above; bump a section back toward the left margin
 \newenvironment{unindentsection}[1]%
 {\begin{list}{}%
-	{\setlength{\leftmargin}{-0.5#1}}%
-	\item[]%
-}
-{\end{list}}
+		{\setlength{\leftmargin}{-0.5#1}}%
+		\item[]%
+	}
+	{\end{list}}
 
 % format two pieces of text, one left aligned and one right aligned
 \newcommand{\headerrow}[2]
 {\begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}r}
-	#1 &
-	#2 \\
+		#1 &
+		#2 \\
 \end{tabular*}}
 
 % make "C++" look pretty when used in text by touching up the plus signs
@@ -50,132 +50,133 @@
 % and the actual content starts here
 \begin{document}
 	
-\pagenumbering{roman}
-
-\begin{center}
-{\LARGE \textbf{Seth E. Younger}}
-
-%address \textbullet
-%\ address2
-%\\
-seth.e.younger@gmail.com\ \ \textbullet
-\ \ \href{http://www.sethyounger.com}{Website}
-\end{center}
-
-\hrule
-\vspace{-0.4em}
-\subsection*{Education}
-
-\begin{itemize}
-	\parskip=0.1em
+	\pagenumbering{roman}
 	
-	\item 
-	\headerrow
-	{\textbf{University of Georgia}}
-	{\textbf{Athens, GA}}
-	\\
-	\headerrow
-	{\emph{Warnell School of Forestry and Natural Resources, PhD}}
-	{\emph{8/2014 -- 8/2020}}
+	\begin{center}
+		{\LARGE \textbf{Seth E. Younger}}
+		
+		%150 Landor Place
+		%\\
+		%\ Athens, GA 30606
+		%\\
+		seth.e.younger@gmail.com\ \ \textbullet
+		\ \ \href{http://www.sethyounger.com}{Website}
+	\end{center}
 	
-	\item 
-	\headerrow
-	{\textbf{University of Georgia}}
-	{\textbf{Athens, GA}}
-	\\
-	\headerrow
-	{\emph{Department of Geography, M.S. Physical Geography}}
-	{\emph{8/2010 -- 12/2013}}
+	\hrule
+	\vspace{-0.4em}
+	\subsection*{Education}
 	
-	\item 
-	\headerrow
-	{\textbf{Radford University}}
-	{\textbf{Radford, VA}}
-	\\
-	\headerrow
-	{\emph{Department of Geography, B.S. Geography}}
-	{\emph{08/2006 -- 05/2010}}
+	\begin{itemize}
+		\parskip=0.1em
+		
+		\item 
+		\headerrow
+		{\textbf{University of Georgia}}
+		{\textbf{Athens, GA}}
+		\\
+		\headerrow
+		{\emph{Warnell School of Forestry and Natural Resources, PhD}}
+		{\emph{8/2014 -- 8/2020}}
+		
+		\item 
+		\headerrow
+		{\textbf{University of Georgia}}
+		{\textbf{Athens, GA}}
+		\\
+		\headerrow
+		{\emph{Department of Geography, M.S. Physical Geography}}
+		{\emph{8/2010 -- 12/2013}}
+		
+		\item 
+		\headerrow
+		{\textbf{Radford University}}
+		{\textbf{Radford, VA}}
+		\\
+		\headerrow
+		{\emph{Department of Geography, B.S. Geography}}
+		{\emph{08/2006 -- 05/2010}}
+		
+	\end{itemize}
 	
-\end{itemize}
-
-\hrule
-\vspace{-0.4em}
-\subsection*{Experience}
-
-\begin{itemize}
-	\parskip=0.1em
-
-	\item
-	\headerrow
-	{\textbf{UGA, Warnell Hydrology Lab}}
-	{\textbf{Athens, GA}}
-	\\
-	\headerrow
-	{\emph{Graduate Research Assistant}}
-	{\emph{8/2014 -- 7/2020}}
-	\begin{itemize*}
-		\item Investigation of long term watershed scale evapotranspiration as a function of biotic and abiotic factors in the Southeastern U.S.
-		\item Developed plot water budgets for \emph{Pinus taeda} and \emph{Eucalyptus benthamii} trees using hydrometric, physiometric and isotopic water sourcing techniques.
-		\item Data analysis, visualization, reviewing and editing for lab projects (4 co-authored publications, 1 publication in review).
-	\end{itemize*}
-
-	\item
-	\headerrow
+	\hrule
+	\vspace{-0.4em}
+	\subsection*{Experience}
+	
+	\begin{itemize}
+		\parskip=0.1em
+		
+		\item
+		\headerrow
 		{\textbf{UGA, Warnell Hydrology Lab}}
 		{\textbf{Athens, GA}}
-	\\
-	\headerrow
+		\\
+		\headerrow
+		{\emph{Graduate Research Assistant}}
+		{\emph{8/2014 -- 7/2020}}
+		\begin{itemize*}
+			\item Investigation of long term watershed scale evapotranspiration as a function of biotic and abiotic factors in the Southeastern U.S.
+			\item Developed plot water budgets for \emph{Pinus taeda} and \emph{Eucalyptus benthamii} trees using hydrometric, physiometric and isotopic water sourcing techniques.
+			\item Data analysis, visualization, reviewing and editing for lab projects (4 co-authored publications, 1 publication in review).
+		\end{itemize*}
+		
+		\item
+		\headerrow
+		{\textbf{UGA, Warnell Hydrology Lab}}
+		{\textbf{Athens, GA}}
+		\\
+		\headerrow
 		{\emph{Hydrologic Field \& Laboratory Technician}}
 		{\emph{6/2013 -- 7/2014}}
-	\begin{itemize*}
-		\item Collect weekly and monthly tree, soil, lysimeter, throughfall, and well samples.
-		\item Conduct data quality and assurance, pack and ship samples to analytical laboratories.
-		\item Prepare reports on rainfall, bare soil lysimeter, and soil moisture data.
-		\item Hydrologic monitoring, including streamflow measurement, management of HOBO data loggers, ISCO samplers, Global Water level meters, and Decagon soil moisture sensors.
-		\item Assist with tree planting, fertilization, herbicide application and monitoring experimental plots.
-		\item Conduct GIS Analysis relevant to watershed scale hydrology using ArcGIS 10.1.
-		\item Developed ArcGIS tools using ArcPy for watershed hydrologic analysis.
-		\item Provide support and assistance to staff in spatial analysis methods.
-
-	\end{itemize*}
-
-	\item
-	\headerrow
+		\begin{itemize*}
+			\item Collect weekly and monthly tree, soil, lysimeter, throughfall, and well samples.
+			\item Conduct data quality and assurance, pack and ship samples to analytical laboratories.
+			\item Prepare reports on rainfall, bare soil lysimeter, and soil moisture data.
+			\item Hydrologic monitoring, including streamflow measurement, management of HOBO data loggers, ISCO samplers, Global Water level meters, and Decagon soil moisture sensors.
+			\item Assist with tree planting, fertilization, herbicide application and monitoring experimental plots.
+			\item Conduct GIS Analysis relevant to watershed scale hydrology using ArcGIS 10.1.
+			\item Developed ArcGIS tools using ArcPy for watershed hydrologic analysis.
+			\item Provide support and assistance to staff in spatial analysis methods.
+			
+		\end{itemize*}
+		
+		\item
+		\headerrow
 		{\textbf{UGA, Geography Department}}
 		{\textbf{Athens, GA}}
-	\\
-	\headerrow
+		\\
+		\headerrow
 		{\emph{Graduate Research Assistant}}
 		{\emph{1/2011 -- 6/2013}}
-	\begin{itemize*}
-		\item Investigated the use of satellite meteorological data to drive hydrologic simulations in ungauged basins and contributed to development of reports to funding agencies.
-		\item Management of time series data using Python, R and Unix scripting, Microsoft Access and Excel.
-		\item Modeling streamflow with BASINS 4.1 \& Hydrologic Simulation Program Fortran (HSPF).
-		\item Spatial analysis and modeling in ArcGIS 10.1 and QGIS, including development of applications using model builder and ArcPy scripting.
-
-	\end{itemize*}
-
-	\item
-	\headerrow
+		\begin{itemize*}
+			\item Investigated the use of satellite meteorological data to drive hydrologic simulations in ungauged basins and contributed to development of reports to funding agencies.
+			\item Management of time series data using Python, R and Unix scripting, Microsoft Access and Excel.
+			\item Modeling streamflow with BASINS 4.1 \& Hydrologic Simulation Program Fortran (HSPF).
+			\item Spatial analysis and modeling in ArcGIS 10.1 and QGIS, including development of applications using model builder and ArcPy scripting.
+			
+		\end{itemize*}
+		
+		\item
+		\headerrow
 		{\textbf{Radford University, Geography Department}}
 		{\textbf{Radford, VA}}
-	\\
-	\headerrow
+		\\
+		\headerrow
 		{\emph{Natural Hazard Mapping Technician}}
 		{\emph{5/2009 -- 7/2010}}
-	\begin{itemize*}
-		\item Collected, analyzed and organized spatial data to support the New River Valley, VA Planning District Commission 2010 FEMA Hazard Mitigation Plan update.
-
-	\end{itemize*}
-	
-	\item
-	\headerrow
-	{\textbf{City of Radford, Virginia}}
-	{\textbf{Radford, VA}}
-	\\
-	\headerrow
-	{\emph{GIS Technician}}
-	{\emph{1/2008 -- 7/2010}}
+		\begin{itemize*}
+			\item Collected, analyzed and organized spatial data to support the New River Valley, VA Planning District Commission 2010 FEMA Hazard Mitigation Plan update.
+			
+		\end{itemize*}
+		
+		\item
+		\headerrow
+		{\textbf{City of Radford, Virginia}}
+		{\textbf{Radford, VA}}
+		\\
+		\headerrow
+		{\emph{GIS Technician}}
+		{\emph{1/2008 -- 7/2010}}
 		\begin{itemize*}
 			\item Collected and processed Trimble GPS data using Trimble Terra Sync, ArcPad, and GPS Pathfinder Office. 
 			\item Geodatabase management and editing using ArcGIS 9.1-10.0 for Parcels, E911, Public Works, Water, Fire, and Electric departments.
@@ -183,197 +184,200 @@ seth.e.younger@gmail.com\ \ \textbullet
 			
 		\end{itemize*}
 		
-\end{itemize}
-
-\pagebreak
-
-\hrule
-\vspace{-0.4em}
-\subsection*{Technical Skills}
-
-\begin{indentsection}{\parindent}
-	\hyphenpenalty=1000
-	\begin{description*}
-		\item[Languages:]
-		Data analysis with R and Python. Reporting and documentation with Office products, \LaTeX and Markdown. Version control with Github
-		\item[Geographic Information Systems:]
-		Proficient in ArcGIS and open source alternatives including QGIS, gdal, Whitebox. Capable of quickly developing and adopting spatial data workflows.
-		\item[Hydrologic modeling]
-		Experience with HSPF and SWAT. Eager to learn new models quickly.
-	\end{description*}
-\end{indentsection}
+	\end{itemize}
+	
+	\pagebreak
+	
+	\hrule
+	\vspace{-0.4em}
+	\subsection*{Technical Skills}
+	
+	\begin{indentsection}{\parindent}
+		\hyphenpenalty=1000
+		\begin{description*}
+			\item[]
+			Data analysis with R and Python. Documentation with \LaTeX and Markdown. Version control with Github. Writing and presentation with Microsoft Office
+			\item[Geographic Information Systems:]
+			Proficient in ArcGIS and open source alternatives including QGIS, gdal, Whitebox. Capable of quickly developing and adopting spatial data workflows.
+			\item[Hydrologic modeling]
+			Experience with HSPF and SWAT and able to learn new models quickly.
+		\end{description*}
+	\end{indentsection}
+	
+	\vspace{-0.4em}
+	\vskip 0.1 in
+	
+	\hrule
+	\vspace{-0.4em}
+	\vskip 0.15 in
+	\subsection*{Publications}
+	
+	\begin{hangparas}{.25in}{1}
+		
+		Younger, S.E., Jackson, C.R., Rasmussen, T.C. Relationships among forest type, watershed characteristics, and watershed ET in rural basins of the Southeastern US,
+		Journal of Hydrology. (2020), 125316, ISSN 0022-1694, \url{https://doi.org/10.1016/j.jhydrol.2020.125316}
+		
+		Raulerson, S., Jackson, C.R., Melear, N.D., Younger, S.E., Dudley, M., Elliott, K.J. Do southern Appalachian Mountain summer stream temperatures respond to removal of understory rhododendron thickets? Hydrological Processes. (2020), 1– 16. \url{https://doi.org/10.1002/hyp.13788}
+		
+		Meles Bitew, M., Jackson, C.R., Goodrich, D.C., et al. Dynamic domain kinematic modelling for predicting interflow over leaky impeding layers. Hydrological Processes. (2020) 34: 2895– 2910. \url{https://doi.org/10.1002/hyp.13778}
+		
+		Meles, M.B., Younger, S.E., Jackson, C.R., Du, E., and Drover, D. (2020), Wetness Index based on Landscape position and Topography (WILT): Modifying TWI to reflect landscape position, Journal of Environmental Management, Volume 255, ISSN 0301-4797, \url{https://doi.org/10.1016/j.jenvman.2019.109863}
+		
+		Caldwell, P.V., Jackson, C.R., Miniat, C.F., Younger, S.E., Vining, J.A., McDonnell, J.J., Aubrey, D.P., (2018), Woody bioenergy crop selection can have large effects on water yield: A southeastern United States case study,
+		Biomass and Bioenergy, Volume 117, Pages 180-189, ISSN 0961-9534, \url{https://doi.org/10.1016/j.biombioe.2018.07.021}
+		
+		\vskip 0.1 in
+		\vspace{-0.4em}
+		
+	\end{hangparas}
+	
+	\hrule
+	\vspace{-0.4em}
+	\vskip 0.15 in
+	\subsection*{Awards}
+	
+	\begin{hangparas}{.25in}{1}
+		
+		Younger, S.E. 2016. Sigma Xi Grants-in-Aid of Research. Sampling effects on the deuterium isotope signature of tree xylem water. \$800
+		
+		%D.P. Aubrey, C.R. Jackson — as a student, S.E. Younger could not be listed as co-PI on the
+		%grant, but provided contributions to preliminary data, hypothesis development,
+		%experimental design, and proposal editing. 'Title'. 2018-2019. $
+		
+		Younger, S.E. 2019. Travel Award from UGA's Warnell School of Forestry and Natural Resources to present research at the 2019 Annual Meeting of the American Geophysical Union. \$1300
 		
 		\vspace{-0.4em}
 		\vskip 0.1 in
 		
-\hrule
-\vspace{-0.4em}
-\vskip 0.15 in
-\subsection*{Publications}
-
-\begin{hangparas}{.25in}{1}
-
-Raulerson, S, Jackson, CR, Melear, ND, Younger, SE, Dudley, M, Elliott, KJ. Do southern Appalachian Mountain summer stream temperatures respond to removal of understory rhododendron thickets? Hydrological Processes. 2020; 1– 16. \url{https://doi.org/10.1002/hyp.13788}
-
-Meles Bitew, M, Jackson, CR, Goodrich, DC, et al. Dynamic domain kinematic modelling for predicting interflow over leaky impeding layers. Hydrological Processes. 2020; 34: 2895– 2910. \url{https://doi.org/10.1002/hyp.13778}
-
-Meles, Menberu B., Seth E. Younger, C. Rhett Jackson, Enhao Du, and Damion Drover. 2020. Wetness Index based on Landscape position and Topography (WILT): Modifying TWI to reflect landscape position, Journal of Environmental Management, Volume 255, ISSN 0301-4797, \url{https://doi.org/10.1016/j.jenvman.2019.109863}
-
-Caldwell, P.V., Jackson, C.R., Miniat, C.F., Younger, S.E., Vining, J.A., McDonnell, J.J., Aubrey, D.P., (2018) Woody bioenergy crop selection can have large effects on water yield: A southeastern United States case study,
-Biomass and Bioenergy, Volume 117, Pages 180-189, ISSN 0961-9534, \url{https://doi.org/10.1016/j.biombioe.2018.07.021}
-
-\vskip 0.1 in
-\vspace{-0.4em}
-
-\end{hangparas}
-
-\hrule
-\vspace{-0.4em}
-\vskip 0.15 in
-\subsection*{Awards}
-
-\begin{hangparas}{.25in}{1}
-
-Younger, S.E. 2016. Sigma Xi Grants-in-Aid of Research. Sampling effects on the deuterium isotope signature of tree xylem water. \$800
-
-%D.P. Aubrey, C.R. Jackson — as a student, S.E. Younger could not be listed as co-PI on the
-%grant, but provided contributions to preliminary data, hypothesis development,
-%experimental design, and proposal editing. 'Title'. 2018-2019. $
-
-Younger, S.E. 2019. Travel Award from UGA's Warnell School of Forestry and Natural Resources to present research at the 2019 Annual Meeting of the American Geophysical Union. \$1300
-
-\vspace{-0.4em}
-\vskip 0.1 in
-
-\end{hangparas}
-
-\hrule
-\vspace{-0.4em}
-\vskip 0.15 in
-\subsection*{Conference Proceedings}
-
-\begin{hangparas}{.25in}{1}
+	\end{hangparas}
 	
-	Rasmussen, Todd \& Deemy, James \& Younger, Seth. (2017). Big Data in Hydrology: From Continental to Hillslope Scales. Georgia Water Resources Conference, Athens, GA. April 2017.
-
-\end{hangparas}
-
-\vskip 0.1 in
-
-% this starts small text for citations
-\begingroup
-\footnotesize
-
-\hrule
-\vspace{-0.4em}
-\vskip 0.15 in
-
-\subsection*{Scientific Presentations}
-
-\begin{hangparas}{.25in}{1}
+	\hrule
+	\vspace{-0.4em}
+	\vskip 0.15 in
+	\subsection*{Conference Proceedings}
 	
-	Younger, S.E., Aubrey, D.P., Jackson, C.R., (2019), Water budget comparison of two fast growing bioenergy tree species during canopy closure (Invited), B11J-2240 poster presented at 2019 Fall Meeting, AGU, San Francisco, CA, 9-13 Dec.
+	\begin{hangparas}{.25in}{1}
+		
+		Rasmussen, Todd \& Deemy, James \& Younger, Seth. (2017). Big Data in Hydrology: From Continental to Hillslope Scales. Georgia Water Resources Conference, Athens, GA. April 2017.
+		
+	\end{hangparas}
 	
-	Younger, S.E, Jackson, C.R. (2019). Influence of forest and vegetation type on annual evapotranspiration estimated by water budgets across 46 rural basins in the Southeastern US. Georgia Water Resources Conference. Athens, GA
+	\vskip 0.1 in
 	
-	Raulerson, S., Jackson, C.R., Melear, N.D., Younger, S.E., Dudley, M., Elliott, K.J. (2019). Impacts of understory rhododendron removal on Southern Appalachian Mountain stream temperatures. Poster presented at Georgia Water Resources Conference. Athens, GA
+	% this starts small text for citations
+	\begingroup
+	\footnotesize
 	
-	Younger, S.E., D.P. Aubrey, and C.R. Jackson. (2018). Water budget comparison of early rotation Pinus taeda and Eucalyptus benthamii in the Upper Coastal Plain of South Carolina. Warnell Graduate Student Association. Warnell Graduate Student Symposium. Athens, GA
+	\hrule
+	\vspace{-0.4em}
+	\vskip 0.15 in
 	
-	Aubrey, D. P., C. R. Jackson, J.J. McDonnell, C.R. Miniat, P.V. Caldwell, and S.E. Younger. (2017). Hydrologic Budgets for Short Rotation Loblolly Pine and Eucalyptus. USDA-NIFA AFRI Sustainable Bioenergy Annual Project Director Meeting. Tampa, FL. (Invited)
+	\subsection*{Scientific Presentations}
 	
-	Younger, S.E., Jackson, C.R. (2017). Variation of Annual ET Determined from Water Budgets Across Rural Southeastern Basins Differing in Forest Types, Poster [H33B-1667] presented at 2017 Fall Meeting, AGU, New Orleans, LA, 11-15 Dec.
+	\begin{hangparas}{.25in}{1}
+		
+		Younger, S.E., Aubrey, D.P., Jackson, C.R., (2019), Water budget comparison of two fast growing bioenergy tree species during canopy closure (Invited), B11J-2240 poster presented at 2019 Fall Meeting, AGU, San Francisco, CA, 9-13 Dec.
+		
+		Younger, S.E, Jackson, C.R. (2019). Influence of forest and vegetation type on annual evapotranspiration estimated by water budgets across 46 rural basins in the Southeastern US. Georgia Water Resources Conference. Athens, GA
+		
+		Raulerson, S., Jackson, C.R., Melear, N.D., Younger, S.E., Dudley, M., Elliott, K.J. (2019). Impacts of understory rhododendron removal on Southern Appalachian Mountain stream temperatures. Poster presented at Georgia Water Resources Conference. Athens, GA
+		
+		Younger, S.E., D.P. Aubrey, and C.R. Jackson. (2018). Water budget comparison of early rotation Pinus taeda and Eucalyptus benthamii in the Upper Coastal Plain of South Carolina. Warnell Graduate Student Association. Warnell Graduate Student Symposium. Athens, GA
+		
+		Aubrey, D. P., C. R. Jackson, J.J. McDonnell, C.R. Miniat, P.V. Caldwell, and S.E. Younger. (2017). Hydrologic Budgets for Short Rotation Loblolly Pine and Eucalyptus. USDA-NIFA AFRI Sustainable Bioenergy Annual Project Director Meeting. Tampa, FL. (Invited)
+		
+		Younger, S.E., Jackson, C.R. (2017). Variation of Annual ET Determined from Water Budgets Across Rural Southeastern Basins Differing in Forest Types, Poster [H33B-1667] presented at 2017 Fall Meeting, AGU, New Orleans, LA, 11-15 Dec.
+		
+		Brockman, L.E., Younger, S.E., Jackson, C.R., McDonnell, J.J., Janzen, K.F., Aubrey, D.A. (2017). Differential soil water sourcing of managed Loblolly Pine and Sweet Gum revealed by stable isotopes in the Upper Coastal Plain, USA, Poster [H23H-1776] Fall Meeting, AGU, New Orleans, LA, 11-15 Dec.
+		
+		Dix, M.J., S.E. Younger, D.P. Aubrey. (2017). The Role of Plants in the Water and Carbon Cycles. Touch An Animal Day, August 26, Savannah River Ecology Lab, Aiken, SC
+		
+		Younger, S.E., D.P. Aubrey, and C.R. Jackson. (2017). Comparing Water Use of Pinus taeda and Eucalyptus benthamii in the Upper Coastal Plain of South Carolina: Experimental Design and Preliminary Data. Warnell Graduate Student Symposium, Athens, GA. 
+		
+		Bitew, M.M., C.R. Jackson, K.B. Vache, N. Griffiths, G. Starr, J. McDonnell, B. Rau, S.E. Younger, and K. Fouts. (2016). Water Quantity and Water Quality Impacts of Intensive Woody Biomass Feedstock Production in the Southeastern USA. Poster. Fall Meeting, AGU, December 12-16, San Francisco, CA. 
+		
+		Rasmussen, T.C., Deemy, J.B., Younger, S.E., Kirk, S.E., Brockman, L.E. (2016). HIS Design: Big Data that Supports Hydrologic Modeling from Continental to Hillslope Scales. Poster. Fall Meeting, AGU, December 12-16, San Francisco, CA. 
+		
+		Bitew, M.M., C.R. Jackson, K. Vache, J.J. McDonnell, N. Griffiths, G. Starr, S. Younger, K. Fouts, and B. Rau. (2016). Modeling hydrologic impacts of intensive woody biomass feedstock production in the southeastern U.S. Short Rotation Woody Crop Science and Technology in an Uncertain Global Marketplace. Poster. 11th Biennial Short Rotation Woody Crops Operations Working Group Conference, October 11-13, Fort Pierce, FL.
+		
+		Younger, S.E., \& Jackson, C. R. (2015). Comparison of evapotranspiration and forest cover type in the southeast United States: A long-term water budget approach.. Poster session presented at the meeting of American Geophysical Union Conference, Dec. 14-19, San Francisco, CA.
+		
+		Younger, S.E., Leigh, D.S. (2014). Sediment Source Ascription of Forest Roads in the Upper Little Tennessee River Basin. Talk at the Southeast Division of the Association of American Geographers. November 23-25.
+		
+		Grundstein, A., B. Avant, S. Younger, A. Ignatius, T. Rasmussen, T. Mote, J.M. Shepherd, (2012). A Methodology for Hydrological Modeling in Data Poor Regions using TRMM Precipitation Data and MERRA Reanalysis Meteorological Data. AAG Annual Meeting, 24-28 February, New York, NY.
+		
+		Rasmussen T.C., A. Grundstein, T. Mote, M. Shepherd, A. Ignatius, B. Avant, S. Younger, (2012). Remote Sensing-Based River Fluxes, National Nuclear Security Administration (NA-22), U.S. Department of Energy, December 1, Washington D.C.
+		
+		Younger, S.E., Foy, A.S. (2010). Conservation Land Use Analysis for the City of Radford, VA. Poster presented at the Big South Undergraduate Research Symposium April 9 \& 10.
+		
+	\end{hangparas}
 	
-	Brockman, L.E., Younger, S.E., Jackson, C.R., McDonnell, J.J., Janzen, K.F., Aubrey, D.A. (2017). Differential soil water sourcing of managed Loblolly Pine and Sweet Gum revealed by stable isotopes in the Upper Coastal Plain, USA, Poster [H23H-1776] Fall Meeting, AGU, New Orleans, LA, 11-15 Dec.
+	\vskip 0.1 in
 	
-	Dix, M.J., S.E. Younger, D.P. Aubrey. (2017). The Role of Plants in the Water and Carbon Cycles. Touch An Animal Day, August 26, Savannah River Ecology Lab, Aiken, SC
+	\hrule
+	\vspace{-0.4em}
+	\vskip 0.15 in
+	\subsection*{Professional Societies}
 	
-	Younger, S.E., D.P. Aubrey, and C.R. Jackson. (2017). Comparing Water Use of Pinus taeda and Eucalyptus benthamii in the Upper Coastal Plain of South Carolina: Experimental Design and Preliminary Data. Warnell Graduate Student Symposium, Athens, GA. 
-	
-	Bitew, M.M., C.R. Jackson, K.B. Vache, N. Griffiths, G. Starr, J. McDonnell, B. Rau, S.E. Younger, and K. Fouts. (2016). Water Quantity and Water Quality Impacts of Intensive Woody Biomass Feedstock Production in the Southeastern USA. Poster. Fall Meeting, AGU, December 12-16, San Francisco, CA. 
-	
-	Rasmussen, T.C., Deemy, J.B., Younger, S.E., Kirk, S.E., Brockman, L.E. (2016). HIS Design: Big Data that Supports Hydrologic Modeling from Continental to Hillslope Scales. Poster. Fall Meeting, AGU, December 12-16, San Francisco, CA. 
-	
-	Bitew, M.M., C.R. Jackson, K. Vache, J.J. McDonnell, N. Griffiths, G. Starr, S. Younger, K. Fouts, and B. Rau. (2016). Modeling hydrologic impacts of intensive woody biomass feedstock production in the southeastern U.S. Short Rotation Woody Crop Science and Technology in an Uncertain Global Marketplace. Poster. 11th Biennial Short Rotation Woody Crops Operations Working Group Conference, October 11-13, Fort Pierce, FL.
-	
-	Younger, S.E., \& Jackson, C. R. (2015). Comparison of evapotranspiration and forest cover type in the southeast United States: A long-term water budget approach.. Poster session presented at the meeting of American Geophysical Union Conference, Dec. 14-19, San Francisco, CA.
-	
-	Younger, S.E., Leigh, D.S. (2014). Sediment Source Ascription of Forest Roads in the Upper Little Tennessee River Basin. Talk at the Southeast Division of the Association of American Geographers. November 23-25.
-	
-	Grundstein, A., B. Avant, S. Younger, A. Ignatius, T. Rasmussen, T. Mote, J.M. Shepherd, (2012). A Methodology for Hydrological Modeling in Data Poor Regions using TRMM Precipitation Data and MERRA Reanalysis Meteorological Data. AAG Annual Meeting, 24-28 February, New York, NY.
-	
-	Rasmussen T.C., A. Grundstein, T. Mote, M. Shepherd, A. Ignatius, B. Avant, S. Younger, (2012). Remote Sensing-Based River Fluxes, National Nuclear Security Administration (NA-22), U.S. Department of Energy, December 1, Washington D.C.
-	
-	Younger, S.E., Foy, A.S. (2010). Conservation Land Use Analysis for the City of Radford, VA. Poster presented at the Big South Undergraduate Research Symposium April 9 \& 10.
-	
-\end{hangparas}
-
-\vskip 0.1 in
-
-\hrule
-\vspace{-0.4em}
-\vskip 0.15 in
-\subsection*{Professional Societies}
-
 	American Geophysical Union
-
-\vskip 0.1 in
-
-\hrule
-\vspace{-0.4em}
-\vskip 0.1 in
-\subsection*{Teaching}
-
-Fall 2018- Laboratory section instructor for \href{http://www.hydrology.uga.edu/rasmussen/class/3060/index.html}{Soils and Hydrology 3060}. In addition to teaching labs with existing materials I helped develop \href{https://seyounger.github.io/soils_and_hydro_teaching/}{teaching materials}.
-
-\vskip 0.1 in
-
-\hrule
-\vspace{-0.4em}
-\vskip 0.15 in
-\subsection*{Volunteer and Service Work}
-
+	
+	\vskip 0.1 in
+	
+	\hrule
+	\vspace{-0.4em}
+	\vskip 0.1 in
+	\subsection*{Teaching}
+	
+	Fall 2018- Laboratory section instructor for \href{http://www.hydrology.uga.edu/rasmussen/class/3060/index.html}{Soils and Hydrology 3060}. In addition to teaching labs with existing materials I helped develop \href{https://seyounger.github.io/soils_and_hydro_teaching/}{teaching materials}.
+	
+	\vskip 0.1 in
+	
+	\hrule
+	\vspace{-0.4em}
+	\vskip 0.15 in
+	\subsection*{Volunteer and Service Work}
+	
 	\begin{itemize*}
-
-	\item
-	Volunteer work with SORBA-Athens, the local mountain bike trail advocacy non-profit, 2017-2020
-	\item
-	Assisting numerous students and community members with GIS and data analysis projects, 2017-2020
-	\item
-	Session technical support - 2017 Georgia Water Resources Conference, April 19 \& 20, 2017
-	\item
-	American Water Resources Association - UGA Chapter Club President (2015-16)
-	\item
-	Volunteer trail work with SORBA-CSRA. Over 100 hours in 2014
-	\item
-	Session moderator – 2013 Georgia Water Resources Conference. April 10 \& 11, 2013
-	\item
-	Assistant to Brad Suther, soil sampling a late Holocene Pee Dee River point bar, Marion, SC., 50 hrs, 1/2013
-	\item
-	Judge/Staff – 13th Annual Geography Undergraduate Conference. April 19th 2012
-	\item
-	Stream cross section measurement using a photographic technique, Masters Student Dustin Menhart 12/2011
-	\item 
-	Measurement of stream cross-sections and channel slopes at Coweeta LTER intensive sampling sites, 10/2011.
-	\item 
-	Initiated reactivation of the Kappa Omicron Chapter of Gamma Theta Upsilon – Fall 2009
-	\item 
-	Initiated and assisted in sponsoring and clean-up of city roadway. April 2009 – Spring 2010
-	\item 
-	Co-organized a group of students to present at the AAG Annual Meeting, Washington, D.C. 2010
-	\item 
-	Assisted in organizing Geography Awareness Week events, 11/2010
-	\item 
-	Geography Club (all officer roles) Radford University. Fall 2007 to Spring 2010
-	\item 
-	Field assistant to Dr. Bernd H. Kuennecke, Salinas De Garanda, Bolivar, Ecuador. (2 weeks) 7/2009
-
-\newcolumntype{Y}{>{\raggedleft\arraybackslash}X}
-\newcolumntype{Z}{>{\centering\arraybackslash}X}
-
-\end{itemize*}
-
-% this ends smaller text for citations
-\endgroup
-
+		
+		\item
+		Volunteer work with SORBA-Athens, the local mountain bike trail advocacy non-profit, 2017-2020
+		\item
+		Assisting numerous students and community members with GIS and data analysis projects, 2017-2020
+		\item
+		Session technical support - 2017 Georgia Water Resources Conference, April 19 \& 20, 2017
+		\item
+		American Water Resources Association - UGA Chapter Club President (2015-16)
+		\item
+		Volunteer trail work with SORBA-CSRA. Over 100 hours in 2014
+		\item
+		Session moderator – 2013 Georgia Water Resources Conference. April 10 \& 11, 2013
+		\item
+		Assistant to Brad Suther, soil sampling a late Holocene Pee Dee River point bar, Marion, SC., 50 hrs, 1/2013
+		\item
+		Judge/Staff – 13th Annual Geography Undergraduate Conference. April 19th 2012
+		\item
+		Stream cross section measurement using a photographic technique, Masters Student Dustin Menhart 12/2011
+		\item 
+		Measurement of stream cross-sections and channel slopes at Coweeta LTER intensive sampling sites, 10/2011.
+		\item 
+		Initiated reactivation of the Kappa Omicron Chapter of Gamma Theta Upsilon – Fall 2009
+		\item 
+		Initiated and assisted in sponsoring and clean-up of city roadway. April 2009 – Spring 2010
+		\item 
+		Co-organized a group of students to present at the AAG Annual Meeting, Washington, D.C. 2010
+		\item 
+		Assisted in organizing Geography Awareness Week events, 11/2010
+		\item 
+		Geography Club (all officer roles) Radford University. Fall 2007 to Spring 2010
+		\item 
+		Field assistant to Dr. Bernd H. Kuennecke, Salinas De Garanda, Bolivar, Ecuador. (2 weeks) 7/2009
+		
+		\newcolumntype{Y}{>{\raggedleft\arraybackslash}X}
+		\newcolumntype{Z}{>{\centering\arraybackslash}X}
+		
+	\end{itemize*}
+	
+	% this ends smaller text for citations
+	\endgroup
+	
 \end{document}
