@@ -31,7 +31,7 @@ featured: true
 
 # links:
 # - name: ""
-url: "http://authors.elsevier.com/a/1bUpm52cuR1qv"
+url: 'http://authors.elsevier.com/a/1bUpm52cuR1qv'
 #url_pdf: 'https://doi.org/10.1016/j.jhydrol.2020.125316'
 url_code: ''
 url_dataset: ''
