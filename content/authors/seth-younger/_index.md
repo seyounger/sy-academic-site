@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Forestry and Natural Resources
+  - course: PhD Forestry and Natural Resources
     institution: University of Georgia
-    year: [spring 2020]
+    year: 2020
   - course: M.S. Geography
     institution: University of Georgia
     year: 2013
