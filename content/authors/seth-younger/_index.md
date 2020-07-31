@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:seyounge@uga.edu"
+  link: "mailto:seth.e.younger@gmail.com"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XaE8a4IAAAAJ&hl=en
@@ -76,4 +76,4 @@ email: ""
 #- Researchers
 ---
 
-I'm a Phd candidate studying how annual and seasonal transpiration varies among tree species and forest types in the southeastern US.  My research encompasses very large scales, using long-term United States Geological Survey stream flow data to examine transpiration differences among large forested watersheds, and small scales, examining plot scale water balance to assess differences in water use among biomass tree species commonly grown in the southeastern US.
+I'm a recent graduate of the UGA hydrology lab. My research focuses on how annual and seasonal transpiration varies among tree species and forest types in the southeastern US.  My research encompasses very large scales, using long-term United States Geological Survey stream flow data to examine transpiration differences among large forested watersheds, and small scales, examining plot scale water balance to assess differences in water use among biomass tree species commonly grown in the southeastern US.
