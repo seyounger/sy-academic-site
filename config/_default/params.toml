@@ -85,19 +85,19 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "seyounge@uga.edu"
+email = "seth.e.younger@gmail.com"
 #phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "180 East Green St.", city = "Athens", region = "GA", postcode = "30602", country = "United States", country_code = "US"}
+#address = {street = "180 East Green St.", city = "Athens", region = "GA", postcode = "30602", country = "United States", country_code = "US"}
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
 address_format = "en-us"
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "33.943655", longitude = "-83.374662"}
+#coordinates = {latitude = "33.943655", longitude = "-83.374662"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -111,12 +111,12 @@ coordinates = {latitude = "33.943655", longitude = "-83.374662"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
+#contact_links = [
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+#  ]
 
 ############################
 ## SocialA
@@ -175,7 +175,7 @@ plugins_js  = []
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "square"
-  
+
 # Available address formats.
 [address_formats]
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
@@ -244,7 +244,7 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-[map]
+#[map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
@@ -259,9 +259,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = "AIzaSyCulA7qqHATJE6zByHToELNMXcgyOTFPrc"
-  zoom = 15
+#  engine = 2
+#  api_key = "AIzaSyCulA7qqHATJE6zByHToELNMXcgyOTFPrc"
+#  zoom = 15
 
 ############################
 ## Marketing

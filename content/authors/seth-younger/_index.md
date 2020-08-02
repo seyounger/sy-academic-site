@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
+role: Hydrologist & Data Analyst
 
 # Organizations/Affiliations
-organizations:
-- name: University of Georgia
-  url: "https://www.uga.edu/"
-- name: Warnell School of Forestry and Natural Resources
-  url: "https://www.warnell.uga.edu/"
+#organizations:
+#- name: University of Georgia
+#  url: "https://www.uga.edu/"
+#- name: Warnell School of Forestry and Natural Resources
+# url: "https://www.warnell.uga.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include hydrology and GIS.
