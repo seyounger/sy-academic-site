@@ -50,7 +50,7 @@ featured: true
 #   url: ""
 url_pdf: ''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-cwt.5024.13'
 url_poster: ''
 url_project: ''
 url_slides: ''
