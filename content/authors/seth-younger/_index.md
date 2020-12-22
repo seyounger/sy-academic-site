@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Hydrologist & Data Analyst
+#role: Watershed & Forest Hydrologist
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 #organizations:
-#- name: University of Georgia
-#  url: "https://www.uga.edu/"
+#- name: The Jones Center at Ichauway
+#  url: "http://www.jonesctr.org/"
 #- name: Warnell School of Forestry and Natural Resources
 # url: "https://www.warnell.uga.edu/"
 
@@ -24,14 +25,14 @@ bio: My research interests include hydrology and GIS.
 
 interests:
 - Hydrology
-- Geomorphology
 - Evapotranspiration
 - Data driven decision making
-- GIS Applications
+- GIS Applications and Automation
+- Geomorphology
 
 education:
   courses:
-  - course: PhD Forestry and Natural Resources
+  - course: Ph.D. Forestry and Natural Resources
     institution: University of Georgia
     year: 2020
   - course: M.S. Geography
@@ -52,9 +53,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XaE8a4IAAAAJ&hl=en
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/seyounger
+- icon: github
+  icon_pack: fab
+  link: https://github.com/seyounger
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2183-0981
@@ -76,4 +77,4 @@ email: ""
 #- Researchers
 ---
 
-I'm a recent graduate of the UGA hydrology lab. My research focuses on how annual and seasonal transpiration varies among tree species and forest types in the southeastern US.  My research encompasses very large scales, using long-term United States Geological Survey stream flow data to examine transpiration differences among large forested watersheds, and small scales, examining plot scale water balance to assess differences in water use among biomass tree species commonly grown in the southeastern US.
+My research focuses on the effects of land use and forest management practices on evapotranspiration partitioning and water yield. My previous research has quantified the hydrologic effects of different land uses and forest management practices in the southeast U.S and quantified precipitation partitioning for bioenergy plantations. I will be joining the Jones Center at Ichuaway in late January 2021 as a Postdoctoral Research Associate where I will work on modeling the water yield effects of Longleaf pine restoration and forest management practices on the southeast Coastal Plain.
