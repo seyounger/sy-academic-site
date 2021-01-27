@@ -14,9 +14,9 @@ superuser: true
 role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
-#organizations:
-#- name: The Jones Center at Ichauway
-#  url: "http://www.jonesctr.org/"
+organizations:
+- name: The Jones Center at Ichauway
+  url: "http://www.jonesctr.org/"
 #- name: Warnell School of Forestry and Natural Resources
 # url: "https://www.warnell.uga.edu/"
 
@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:seth.e.younger@gmail.com"
+  link: "mailto:seth.younger@jonesctr.org"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=XaE8a4IAAAAJ&hl=en
