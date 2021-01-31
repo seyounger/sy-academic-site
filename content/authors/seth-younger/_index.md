@@ -17,8 +17,10 @@ role: Postdoctoral Research Associate
 organizations:
 - name: The Jones Center at Ichauway
   url: "http://www.jonesctr.org/"
-#- name: Warnell School of Forestry and Natural Resources
-# url: "https://www.warnell.uga.edu/"
+- name: Forest Landscape Ecology Lab
+  url: "https://www.jonesctr.org/lab-forest-landscape-ecology-cannon/"
+- name: Ecohydrology Lab
+  url: "https://www.jonesctr.org/lab-ecohydrology-brantley/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include hydrology and GIS.
