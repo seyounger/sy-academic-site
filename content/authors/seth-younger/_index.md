@@ -23,7 +23,7 @@ organizations:
   url: "https://www.jonesctr.org/lab-ecohydrology-brantley/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include hydrology and GIS.
+bio: I'm a hydrologist interested in forest management effects on streamflow.
 
 interests:
 - Hydrology
@@ -35,7 +35,7 @@ interests:
 education:
   courses:
   - course: Ph.D. Forestry and Natural Resources
-    institution: University of Georgia
+    institution: University of Georgia's Warnell School of Forestry and Natural Resources
     year: 2020
   - course: M.S. Geography
     institution: University of Georgia
