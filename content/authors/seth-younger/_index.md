@@ -35,13 +35,13 @@ interests:
 education:
   courses:
   - course: Ph.D. Forestry and Natural Resources
-    institution: University of Georgia's Warnell School of Forestry and Natural Resources
+    institution: University of Georgia, Warnell School of Forestry and Natural Resources
     year: 2020
   - course: M.S. Geography
-    institution: University of Georgia
+    institution: University of Georgia, Geography Department
     year: 2013
   - course: BS Geography
-    institution: Radford University
+    institution: Radford University, Geography Department
     year: 2010
 
 # Social/Academic Networking
