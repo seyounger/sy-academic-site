@@ -2,7 +2,7 @@
 
 # To do:
 
-+ blog posts: r home, updating R, why tidyverse is helpful, road ditch routing for the layperson, a simple evaporation calcualtor
++ blog posts: r home, road ditch routing for the layperson, a simple evaporation calculator
 + useful links / resources page
 
 # [This website was built using the Academic theme](https://sourcethemes.com/academic/)
