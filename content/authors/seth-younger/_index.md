@@ -27,10 +27,8 @@ bio: I'm a hydrologist interested in forest management effects on streamflow.
 
 interests:
 - Hydrology
-- Evapotranspiration
-- Data driven decision making
-- GIS Applications and Automation
-- Geomorphology
+- Practical GIS Applictions
+- Soils and Geomorphology
 
 education:
   courses:
