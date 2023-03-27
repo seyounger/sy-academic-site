@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.21)  21 MAR 2023 10:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.21)  27 MAR 2023 16:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,7 +365,7 @@ ing QGIS, gdal, White-
  []
 
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-44.
+46.
 (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 ) [2] [3] [4]
@@ -388,7 +388,7 @@ ex-gyre/q-ts1.enc}<C:/Users/seth.younger/AppData/Roaming/MiKTeX/fonts/type1/pub
 lic/tex-gyre/qplb.pfb><C:/Users/seth.younger/AppData/Roaming/MiKTeX/fonts/type1
 /public/tex-gyre/qplr.pfb><C:/Users/seth.younger/AppData/Roaming/MiKTeX/fonts/t
 ype1/public/tex-gyre/qplri.pfb>
-Output written on seth_younger-cv.pdf (4 pages, 205375 bytes).
+Output written on seth_younger-cv.pdf (4 pages, 205491 bytes).
 PDF statistics:
  103 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
