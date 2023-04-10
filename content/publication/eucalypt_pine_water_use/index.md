@@ -2,7 +2,7 @@
 title: "Evapotranspiration partitioning of Eucalyptus benthamii and Pinus taeda during early stand development"
 authors:
 - seth-younger
-date: "2023-06-27T00:00:00Z"
+date: "2023-04-06T00:00:00Z"
 doi: "10.1007/s12155-023-10591-w"
 
 # Schedule page publish date (NOT publication's date).
