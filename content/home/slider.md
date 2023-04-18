@@ -40,6 +40,33 @@ height = "200px"
   #align = "left"
 
   #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/longleaf_1.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  #title = "Left"
+  #content = "I am left aligned :smile:"
+  #align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/longleaf_2.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  #title = "Left"
+  #content = "I am left aligned :smile:"
+  #align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "slider/longleaf_3.jpg"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+[[item]]
+  #title = "Left"
+  #content = "I am left aligned :smile:"
+  #align = "left"
+
+  #overlay_color = "#555"  # An HTML color value.
   overlay_img = "slider/control_soil_core.png"  # Image path relative to your `static/img/` folder.
   #overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
