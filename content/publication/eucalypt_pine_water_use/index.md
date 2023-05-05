@@ -31,8 +31,8 @@ featured: true
 
 # links:
 # - name: ""
-#url:
-url_pdf: 'https://link.springer.com/article/10.1007/s12155-023-10591-w'
+url: 'https://link.springer.com/article/10.1007/s12155-023-10591-w'
+url_pdf: 'https://www.srs.fs.usda.gov/pubs/ja/2023/ja_2023_caldwell_003.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
