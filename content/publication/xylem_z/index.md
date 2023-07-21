@@ -31,7 +31,7 @@ featured: true
 
 # links:
 # - name: ""
-url: 'https://rdcu.be/dgZnY'
+url: 'http://rdcu.be/dgZnY'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
