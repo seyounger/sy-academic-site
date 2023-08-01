@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.7.12)  1 AUG 2023 08:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.7.12)  1 AUG 2023 11:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -246,8 +246,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip60
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 18.
-LaTeX Font Info:    Trying to load font information for T1+qpl on input line 51
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
+LaTeX Font Info:    Trying to load font information for T1+qpl on input line 52
 .
 
 (C:\Users\seth.younger\AppData\Roaming\MiKTeX\tex/latex/tex-gyre\t1qpl.fd
@@ -261,24 +261,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (seth_younger-cv.aux)
 \openout1 = `seth_younger-cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -339,28 +339,28 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \makeMPintoPDFobject=\count281
 \everyMPtoPDFconversion=\toks25
 )) (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 51.
+Package hyperref Info: Link coloring ON on input line 52.
 
 (seth_younger-cv.out) (seth_younger-cv.out)
 \@outlinefile=\write3
 \openout3 = `seth_younger-cv.out'.
 
 LaTeX Font Info:    Trying to load font information for TS1+qpl on input line 7
-4.
+3.
 
 (C:\Users\seth.younger\AppData\Roaming\MiKTeX\tex/latex/tex-gyre\ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 76.
+(Font)              <7> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 76.
+(Font)              <5> on input line 75.
 
 [1
 
 {C:/Users/seth.younger/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-47.
+46.
 
 (C:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
@@ -385,9 +385,9 @@ ex-gyre/q-ts1.enc}<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi1
 /qplb.pfb><C:/Users/seth.younger/AppData/Roaming/MiKTeX/fonts/type1/public/tex-
 gyre/qplr.pfb><C:/Users/seth.younger/AppData/Roaming/MiKTeX/fonts/type1/public/
 tex-gyre/qplri.pfb>
-Output written on seth_younger-cv.pdf (5 pages, 219651 bytes).
+Output written on seth_younger-cv.pdf (5 pages, 219966 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
+ 119 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
