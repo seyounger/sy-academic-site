@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.15)  12 OCT 2023 11:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.15)  16 OCT 2023 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,7 +368,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 e/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/set
 he/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-46.
+47.
 
 (C:\Users\sethe\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
@@ -384,14 +384,14 @@ Here is how much of TeX's memory you used:
  29638 multiletter control sequences out of 15000+600000
  536898 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,6n,67p,487b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,6n,67p,487b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\sethe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
 1000.pk><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/tex-gyre/qplb.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/tex-gyre/qplr.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/tex-gyre/qplri.pfb>
-Output written on seth_younger-cv.pdf (5 pages, 220513 bytes).
+Output written on seth_younger-cv.pdf (5 pages, 220568 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
