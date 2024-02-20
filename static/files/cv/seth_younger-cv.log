@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.2)  2 FEB 2024 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.15)  15 FEB 2024 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./seth_younger-cv.tex
 (seth_younger-cv.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+L3 programming layer <2024-01-22>
 (C:\Users\sethe\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Users\sethe\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
@@ -373,16 +373,16 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 [2] [3] [4] [5] (seth_younger-cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-04>
+L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `seth_younger-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9261 strings out of 474486
- 145543 string characters out of 5743756
- 1952542 words of memory out of 5000000
- 31430 multiletter control sequences out of 15000+600000
+ 9261 strings out of 474542
+ 145544 string characters out of 5744446
+ 1950978 words of memory out of 5000000
+ 31374 multiletter control sequences out of 15000+600000
  582680 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,6n,79p,487b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -392,7 +392,7 @@ ts/cm/cmmi10.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/tex-gyre/qplb.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/tex-gyre/qplr.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/tex-gyre/qplri.pfb>
-Output written on seth_younger-cv.pdf (5 pages, 220570 bytes).
+Output written on seth_younger-cv.pdf (5 pages, 222250 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
