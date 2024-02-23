@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.15)  20 FEB 2024 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.15)  23 FEB 2024 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,7 +365,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 e/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/set
 he/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-48.
+50.
 
 (C:\Users\sethe\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -392,7 +392,7 @@ ts/cm/cmmi10.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/tex-gyre/qplb.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/tex-gyre/qplr.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/tex-gyre/qplri.pfb>
-Output written on seth_younger-cv.pdf (6 pages, 222999 bytes).
+Output written on seth_younger-cv.pdf (6 pages, 223112 bytes).
 PDF statistics:
  124 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
