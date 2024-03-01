@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.15)  23 FEB 2024 09:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.15)  1 MAR 2024 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -365,41 +365,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 e/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ec.enc}{C:/Users/set
 he/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-50.
+55.
 
 (C:\Users\sethe\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-[2]
-
-! LaTeX Error: Unicode character δ (U+03B4)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.340 ...rential variations in stem xylem water δ
-                                                  2H and δ18O in three tree...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character δ (U+03B4)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.340 ...ariations in stem xylem water δ2H and δ
-                                                  18O in three tree species....
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[3] [4] [5] (seth_younger-cv.aux)
+[2] [3] [4] [5] (seth_younger-cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -408,20 +379,20 @@ Package rerunfilecheck Info: File `seth_younger-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9262 strings out of 474542
- 145549 string characters out of 5744446
- 1950978 words of memory out of 5000000
- 31375 multiletter control sequences out of 15000+600000
+ 9261 strings out of 474542
+ 145544 string characters out of 5744446
+ 1949978 words of memory out of 5000000
+ 31374 multiletter control sequences out of 15000+600000
  582680 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,6n,79p,487b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,6n,79p,487b,568s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\sethe\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
 1000.pk><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/tex-gyre/qplb.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/tex-gyre/qplr.pfb><C:/Users/sethe/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/tex-gyre/qplri.pfb>
-Output written on seth_younger-cv.pdf (5 pages, 222821 bytes).
+Output written on seth_younger-cv.pdf (5 pages, 223606 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
