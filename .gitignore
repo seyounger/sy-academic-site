@@ -6,7 +6,7 @@ themes/academic
 # Latex
 .aux
 .log
-.synctex.gz
+.gz
 
 # Local Netlify folder
 .netlify
