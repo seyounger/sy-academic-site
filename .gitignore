@@ -3,5 +3,9 @@ public/
 themes/academic
 .Rhistory
 
+# Latex
+.log
+synctex.gz
+
 # Local Netlify folder
 .netlify
