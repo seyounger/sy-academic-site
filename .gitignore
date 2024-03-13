@@ -4,8 +4,9 @@ themes/academic
 .Rhistory
 
 # Latex
+.aux
 .log
-synctex.gz
+.synctex.gz
 
 # Local Netlify folder
 .netlify
