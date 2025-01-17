@@ -14,13 +14,13 @@ superuser: true
 role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
-# organizations:
-# - name: The Jones Center at Ichauway
-#   url: "http://www.jonesctr.org/"
-# - name: Forest Landscape Ecology Lab
-#   url: "https://www.jonesctr.org/lab-forest-landscape-ecology-cannon/"
-# - name: Ecohydrology Lab
-#   url: "https://www.jonesctr.org/lab-ecohydrology-brantley/"
+organizations:
+- name: The Jones Center at Ichauway
+  url: "http://www.jonesctr.org/"
+- name: Forest Landscape Ecology Lab
+  url: "https://www.jonesctr.org/lab-forest-landscape-ecology-cannon/"
+- name: Ecohydrology Lab
+  url: "https://www.jonesctr.org/lab-ecohydrology-brantley/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a hydrologist interested in forest management effects on streamflow.
